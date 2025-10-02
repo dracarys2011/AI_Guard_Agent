@@ -1,0 +1,13 @@
+opencv-python
+mediapipe
+face_recognition
+deepface
+dlib
+openai-whisper
+SpeechRecognition
+pyaudio
+gtts
+pyttsx3
+playsound
+transformers
+langchain
